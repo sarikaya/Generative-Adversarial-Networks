@@ -18,7 +18,7 @@ Pytorch implementation of Denoising Autoencoder for CelebA dataset
 
 ## GANs
 
-Pytorch implementation of Generative Adversarial Networks for MINST dataset
+Pytorch implementation of Generative Adversarial Networks for MNIST dataset
 
 ### Vanilla GAN Loss
 
